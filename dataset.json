@@ -1,0 +1,529 @@
+{
+    "cases_list": [
+        {
+            "page_content": "The Supreme Court upheld the Centre's 2016 demonetisation scheme in a 4:1 majority, ruling that demonetisation was proportionate to the Union’s objectives and implemented reasonably.",
+            "metadata": {
+                "year": 2023,
+                "court": "Supreme Court of India",
+                "judges": [
+                    "S. Abdul Nazeer",
+                    "B.R. Gavai",
+                    "A.S. Bopanna",
+                    "V. Ramasubramanian",
+                    "B.V. Nagarathna"
+                ],
+                "legal_topics": [
+                    "Constitutional Law",
+                    "Economic Policy"
+                ],
+                "relevant_laws": [
+                    "Article 370 of the Indian Constitution"
+                ]
+            }
+        },
+        {
+            "page_content": "The United States Supreme Court ruled that the Chief Election Commissioner and Election Commissioners must be appointed by a three-member committee comprising the Prime Minister, leader of the Opposition, and the Chief Justice.",
+            "metadata": {
+                "year": 2023,
+                "court": "Supreme Court of the United States",
+                "judges": [
+                    "K.M. Joseph",
+                    "Ajay Rastogi",
+                    "Aniruddha Bose",
+                    "Hrishikesh Roy",
+                    "C.T. Ravikumar"
+                ],
+                "legal_topics": [
+                    "Election Law",
+                    "Constitutional Law"
+                ],
+                "relevant_laws": [
+                    "Election Commission Act"
+                ]
+            }
+        },
+        {
+            "page_content": "In a case concerning the rights of students with disabilities, the United States Department of Justice concluded that Alabama’s foster care system discriminates against students with emotional and behavioral disabilities.",
+            "metadata": {
+                "year": 2022,
+                "court": "United States Department of Justice",
+                "judges": [
+                    "Investigation by the Civil Rights Division"
+                ],
+                "legal_topics": [
+                    "Disability Law",
+                    "Education Law"
+                ],
+                "relevant_laws": [
+                    "Title II of the Americans with Disabilities Act"
+                ]
+            }
+        },
+        {
+            "page_content": "The U.S. Supreme Court ruled that a state cannot require out-of-state sellers to collect sales tax unless they have a significant presence in the state.",
+            "metadata": {
+                "year": 2018,
+                "court": "Supreme Court of the United States",
+                "judges": [
+                    "Majority opinion by Justice Kennedy"
+                ],
+                "legal_topics": [
+                    "Tax Law",
+                    "Commerce Clause"
+                ],
+                "relevant_laws": [
+                    "Commerce Clause of the U.S. Constitution"
+                ]
+            }
+        },
+        {
+            "page_content": "The Supreme Court of India modified guidelines for passive euthanasia, allowing a two-tiered process for authorizing the withdrawal of life support for terminally ill patients.",
+            "metadata": {
+                "year": 2023,
+                "court": "Supreme Court of India",
+                "judges": [
+                    "K.M. Joseph",
+                    "Ajay Rastogi",
+                    "Aniruddha Bose",
+                    "Hrishikesh Roy",
+                    "C.T. Ravikumar"
+                ],
+                "legal_topics": [
+                    "Health Law",
+                    "Right to Die"
+                ],
+                "relevant_laws": [
+                    "Guidelines for Passive Euthanasia"
+                ]
+            }
+        },
+        {
+            "page_content": "In a landmark decision, the Supreme Court of Canada upheld a lower court's ruling that police must obtain a warrant before accessing subscriber information from internet service providers.",
+            "metadata": {
+                "year": 2014,
+                "court": "Supreme Court of Canada",
+                "judges": [
+                    "Justice Thomas Cromwell"
+                ],
+                "legal_topics": [
+                    "Privacy Law",
+                    "Criminal Procedure"
+                ],
+                "relevant_laws": [
+                    "Canadian Charter of Rights and Freedoms"
+                ]
+            }
+        },
+        {
+            "page_content": "The Ninth Circuit Court of Appeals held that the Second Amendment protects an individual's right to carry a firearm in public for self-defense.",
+            "metadata": {
+                "year": 2021,
+                "court": "Ninth Circuit Court of Appeals",
+                "judges": [
+                    "Majority opinion by Judge O’Scannlain"
+                ],
+                "legal_topics": [
+                    "Second Amendment",
+                    "Gun Rights"
+                ],
+                "relevant_laws": [
+                    "Second Amendment of the U.S. Constitution"
+                ]
+            }
+        },
+        {
+            "page_content": "The European Court of Human Rights ruled that the UK's bulk interception regime violated the right to privacy and lacked sufficient safeguards.",
+            "metadata": {
+                "year": 2018,
+                "court": "European Court of Human Rights",
+                "judges": [
+                    "Grand Chamber"
+                ],
+                "legal_topics": [
+                    "Privacy Law",
+                    "Surveillance"
+                ],
+                "relevant_laws": [
+                    "European Convention on Human Rights"
+                ]
+            }
+        },
+        {
+            "page_content": "The Supreme Court of Texas ruled that landowners cannot sue for trespass against oil and gas companies that use hydraulic fracturing on adjacent properties.",
+            "metadata": {
+                "year": 2008,
+                "court": "Supreme Court of Texas",
+                "judges": [
+                    "Justice Nathan Hecht"
+                ],
+                "legal_topics": [
+                    "Property Law",
+                    "Environmental Law"
+                ],
+                "relevant_laws": [
+                    "Texas Property Code"
+                ]
+            }
+        },
+        {
+            "page_content": "The High Court of Australia found that the Commonwealth's immigration detention regime did not violate the Australian Constitution.",
+            "metadata": {
+                "year": 2004,
+                "court": "High Court of Australia",
+                "judges": [
+                    "Chief Justice Murray Gleeson"
+                ],
+                "legal_topics": [
+                    "Immigration Law",
+                    "Constitutional Law"
+                ],
+                "relevant_laws": [
+                    "Migration Act 1958"
+                ]
+            }
+        },
+        {
+            "page_content": "The European Court of Justice ruled that Google must remove links to personal data when requested by individuals under the 'Right to be Forgotten' principle.",
+            "metadata": {
+                "year": 2014,
+                "court": "European Court of Justice",
+                "judges": [
+                    "Judge Antonio Tizzano"
+                ],
+                "legal_topics": [
+                    "Data Privacy",
+                    "Internet Law"
+                ],
+                "relevant_laws": [
+                    "General Data Protection Regulation (GDPR)"
+                ]
+            }
+        },
+        {
+            "page_content": "The U.S. Supreme Court decided that same-sex marriage is a constitutional right under the Fourteenth Amendment.",
+            "metadata": {
+                "year": 2015,
+                "court": "Supreme Court of the United States",
+                "judges": [
+                    "Majority opinion by Justice Anthony Kennedy"
+                ],
+                "legal_topics": [
+                    "Constitutional Law",
+                    "Civil Rights"
+                ],
+                "relevant_laws": [
+                    "Fourteenth Amendment of the U.S. Constitution"
+                ]
+            }
+        },
+        {
+            "page_content": "The High Court of Australia held that the plain packaging laws for tobacco products were not unconstitutional.",
+            "metadata": {
+                "year": 2012,
+                "court": "High Court of Australia",
+                "judges": [
+                    "Chief Justice Robert French"
+                ],
+                "legal_topics": [
+                    "Health Law",
+                    "Intellectual Property"
+                ],
+                "relevant_laws": [
+                    "Tobacco Plain Packaging Act 2011"
+                ]
+            }
+        },
+        {
+            "page_content": "The Supreme Court of the United Kingdom ruled that Uber drivers are workers and entitled to employment rights such as minimum wage and holiday pay.",
+            "metadata": {
+                "year": 2021,
+                "court": "Supreme Court of the United Kingdom",
+                "judges": [
+                    "Lord Reed",
+                    "Lord Hodge",
+                    "Lady Arden"
+                ],
+                "legal_topics": [
+                    "Employment Law",
+                    "Gig Economy"
+                ],
+                "relevant_laws": [
+                    "Employment Rights Act 1996"
+                ]
+            }
+        },
+        {
+            "page_content": "The Constitutional Court of South Africa ruled that the use of corporal punishment in the home is unconstitutional.",
+            "metadata": {
+                "year": 2019,
+                "court": "Constitutional Court of South Africa",
+                "judges": [
+                    "Chief Justice Mogoeng Mogoeng"
+                ],
+                "legal_topics": [
+                    "Family Law",
+                    "Human Rights"
+                ],
+                "relevant_laws": [
+                    "South African Constitution"
+                ]
+            }
+        },
+        {
+            "page_content": "The U.S. Supreme Court invalidated a federal law prohibiting sports betting outside Nevada, holding it violated the anti-commandeering rule.",
+            "metadata": {
+                "year": 2018,
+                "court": "Supreme Court of the United States",
+                "judges": [
+                    "Majority opinion by Justice Samuel Alito"
+                ],
+                "legal_topics": [
+                    "Sports Law",
+                    "Constitutional Law"
+                ],
+                "relevant_laws": [
+                    "Professional and Amateur Sports Protection Act (PASPA)"
+                ]
+            }
+        },
+        {
+            "page_content": "The Supreme Court of Canada ruled that a drug-sniffing dog’s alert to the presence of drugs provided the police with the reasonable grounds necessary for a search.",
+            "metadata": {
+                "year": 2008,
+                "court": "Supreme Court of Canada",
+                "judges": [
+                    "Justice Louise Charron"
+                ],
+                "legal_topics": [
+                    "Criminal Law",
+                    "Search and Seizure"
+                ],
+                "relevant_laws": [
+                    "Canadian Charter of Rights and Freedoms"
+                ]
+            }
+        },
+        {
+            "page_content": "The International Court of Justice ruled that Myanmar must take measures to prevent the genocide of the Rohingya people.",
+            "metadata": {
+                "year": 2020,
+                "court": "International Court of Justice",
+                "judges": [
+                    "President Abdulqawi Yusuf"
+                ],
+                "legal_topics": [
+                    "International Law",
+                    "Human Rights"
+                ],
+                "relevant_laws": [
+                    "Convention on the Prevention and Punishment of the Crime of Genocide"
+                ]
+            }
+        },
+        {
+            "page_content": "The Court of Justice of the European Union ruled that data retention laws requiring telecommunications companies to retain users’ data indiscriminately are invalid.",
+            "metadata": {
+                "year": 2016,
+                "court": "Court of Justice of the European Union",
+                "judges": [
+                    "Judge Koen Lenaerts"
+                ],
+                "legal_topics": [
+                    "Data Privacy",
+                    "Telecommunications Law"
+                ],
+                "relevant_laws": [
+                    "Directive 2006/24/EC"
+                ]
+            }
+        },
+        {
+            "page_content": "The Supreme Court of India declared the practice of instant triple talaq (talaq-e-biddat) as unconstitutional.",
+            "metadata": {
+                "year": 2017,
+                "court": "Supreme Court of India",
+                "judges": [
+                    "Chief Justice J.S. Khehar",
+                    "Justice Kurian Joseph"
+                ],
+                "legal_topics": [
+                    "Family Law",
+                    "Religious Law"
+                ],
+                "relevant_laws": [
+                    "Article 14 of the Indian Constitution"
+                ]
+            }
+        },
+        {
+            "page_content": "The U.S. Supreme Court ruled that state laws banning abortion are unconstitutional, recognizing a woman's right to privacy in making medical decisions.",
+            "metadata": {
+                "year": 1973,
+                "court": "Supreme Court of the United States",
+                "judges": [
+                    "Majority opinion by Justice Harry Blackmun"
+                ],
+                "legal_topics": [
+                    "Constitutional Law",
+                    "Reproductive Rights"
+                ],
+                "relevant_laws": [
+                    "Fourteenth Amendment of the U.S. Constitution"
+                ]
+            }
+        },
+        {
+            "page_content": "The Supreme Court of Canada upheld the right of individuals to physician-assisted death under certain conditions, ruling that prohibiting it violated the Canadian Charter of Rights and Freedoms.",
+            "metadata": {
+                "year": 2015,
+                "court": "Supreme Court of Canada",
+                "judges": [
+                    "Chief Justice Beverley McLachlin"
+                ],
+                "legal_topics": [
+                    "Health Law",
+                    "Human Rights"
+                ],
+                "relevant_laws": [
+                    "Canadian Charter of Rights and Freedoms"
+                ]
+            }
+        },
+        {
+            "page_content": "The European Court of Human Rights ruled that the French ban on wearing face veils in public did not violate the European Convention on Human Rights.",
+            "metadata": {
+                "year": 2014,
+                "court": "European Court of Human Rights",
+                "judges": [
+                    "Judge Dean Spielmann"
+                ],
+                "legal_topics": [
+                    "Human Rights",
+                    "Religious Freedom"
+                ],
+                "relevant_laws": [
+                    "European Convention on Human Rights"
+                ]
+            }
+        },
+        {
+            "page_content": "The Constitutional Court of South Africa ruled that domestic workers are entitled to the same compensation benefits as other workers.",
+            "metadata": {
+                "year": 2020,
+                "court": "Constitutional Court of South Africa",
+                "judges": [
+                    "Chief Justice Mogoeng Mogoeng"
+                ],
+                "legal_topics": [
+                    "Labor Law",
+                    "Equality"
+                ],
+                "relevant_laws": [
+                    "Compensation for Occupational Injuries and Diseases Act"
+                ]
+            }
+        },
+        {
+            "page_content": "The Supreme Court of India decriminalized consensual homosexual acts between adults, overturning a colonial-era law under Section 377 of the Indian Penal Code.",
+            "metadata": {
+                "year": 2018,
+                "court": "Supreme Court of India",
+                "judges": [
+                    "Chief Justice Dipak Misra"
+                ],
+                "legal_topics": [
+                    "Human Rights",
+                    "LGBTQ+ Rights"
+                ],
+                "relevant_laws": [
+                    "Section 377 of the Indian Penal Code"
+                ]
+            }
+        },
+        {
+            "page_content": "The U.S. Supreme Court held that the Defense of Marriage Act (DOMA) was unconstitutional as it violated the Fifth Amendment by denying federal recognition of same-sex marriages.",
+            "metadata": {
+                "year": 2013,
+                "court": "Supreme Court of the United States",
+                "judges": [
+                    "Majority opinion by Justice Anthony Kennedy"
+                ],
+                "legal_topics": [
+                    "Constitutional Law",
+                    "LGBTQ+ Rights"
+                ],
+                "relevant_laws": [
+                    "Fifth Amendment of the U.S. Constitution"
+                ]
+            }
+        },
+        {
+            "page_content": "The International Criminal Court found Jean-Pierre Bemba guilty of war crimes and crimes against humanity for his role in the Central African Republic conflict.",
+            "metadata": {
+                "year": 2016,
+                "court": "International Criminal Court",
+                "judges": [
+                    "Judge Sylvia Steiner"
+                ],
+                "legal_topics": [
+                    "International Law",
+                    "Human Rights"
+                ],
+                "relevant_laws": [
+                    "Rome Statute of the International Criminal Court"
+                ]
+            }
+        },
+        {
+            "page_content": "The Supreme Court of the United Kingdom ruled that Parliament must vote on triggering Article 50 to begin the Brexit process.",
+            "metadata": {
+                "year": 2017,
+                "court": "Supreme Court of the United Kingdom",
+                "judges": [
+                    "President Lord Neuberger"
+                ],
+                "legal_topics": [
+                    "Constitutional Law",
+                    "European Union Law"
+                ],
+                "relevant_laws": [
+                    "Article 50 of the Treaty on European Union"
+                ]
+            }
+        },
+        {
+            "page_content": "The Supreme Court of Japan upheld a law requiring married couples to share a surname, ruling it did not violate constitutional guarantees of equality.",
+            "metadata": {
+                "year": 2015,
+                "court": "Supreme Court of Japan",
+                "judges": [
+                    "Chief Justice Itsuro Terada"
+                ],
+                "legal_topics": [
+                    "Family Law",
+                    "Equality"
+                ],
+                "relevant_laws": [
+                    "Japanese Civil Code"
+                ]
+            }
+        },
+        {
+            "page_content": "The Constitutional Court of South Africa ruled that the President’s appointment of the National Director of Public Prosecutions was invalid due to a conflict of interest.",
+            "metadata": {
+                "year": 2012,
+                "court": "Constitutional Court of South Africa",
+                "judges": [
+                    "Deputy Chief Justice Dikgang Moseneke"
+                ],
+                "legal_topics": [
+                    "Constitutional Law",
+                    "Public Administration"
+                ],
+                "relevant_laws": [
+                    "South African Constitution"
+                ]
+            }
+        }
+    ]
+}
